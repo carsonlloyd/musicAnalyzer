@@ -1,4 +1,3 @@
-# created by virtualenv automatically
 venv/
-fromSpotifyAPI/config.py
 .idea/
+fromSpotifyAPI/config.py
